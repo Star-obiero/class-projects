@@ -43,4 +43,4 @@ while i<6:
   #For loop
 
   for x in "banana":
-       print(x)
+       print(
